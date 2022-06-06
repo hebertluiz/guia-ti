@@ -2,8 +2,6 @@
 
 ---
 
-O guia possui listado a maioria dos códigos SIP conhecidos...
-
 ##  1xx—Respostas Provisórias / Informacionais [ Indica o Status de uma chamada antes dela ser completada / Iniciada / Mostra informações ]
 
 * 100 Trying  
